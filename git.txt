@@ -1,0 +1,8 @@
+git status = to check the status of git in local folder
+git init = initialize git repository 
+git add . = add the changes
+git commit -m “first commit” = commit the changes
+git remote add origin <url> = connect local to git repo
+git push -u origin master = push the changes to master branch
+git config --global user.name “username”
+git config --global user.email “email”
